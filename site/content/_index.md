@@ -1,7 +1,7 @@
 ---
 title: "Distributor peralatan kasir no 1 di Indonesia"
 subtitle: berpengalaman lebih dari 10th
-image: /img/home-jumbotron.jpg
+image: /img/alat kasir.webp
 blurb:
     heading: Kenapa Kasanoa?
     text: "Kasanoa telah bekerja berpartner dengan brand-brand besar seluruh indonesia. Seperti Majoo, Pawoon dan lain lain."
