@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Distributor peralatan kasir no 1 di Indonesia"
+subtitle: berpengalaman lebih dari 10th
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
