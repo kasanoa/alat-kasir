@@ -15,6 +15,6 @@ products:
       text: "perlengkapan kasir, perlengkapan kasir restoran, perlengkapan kasir minimarket, peralatan kasir minimarket, harga peralatan kasir, jual peralatan kasir"
 values:
     heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    text: alat printer struk, alat cetak struk mini murah, alat struk kasir, harga alat cetak struk mini, alat cetak struk grabfood.
 ---
 
